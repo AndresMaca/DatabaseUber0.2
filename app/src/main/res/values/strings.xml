@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DatabaseUBER0.1</string>
+    <string name="action_settings">Settings</string>
+    <string name="number">3176399999</string>
+    <string name="numberOfStars">5</string>
+    <string name="numeroViajes">#VIAJES:</string>
+    <string name="menuitem_search">Search</string>
+    <string name="enterNumberEdit">Number</string>
+    <string name="enterNumberTitle">Type number</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="enterNameEdit">Enter Name</string>
+    <string name="Search">Search</string>
+
+</resources>
